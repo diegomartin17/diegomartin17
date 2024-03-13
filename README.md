@@ -1,22 +1,22 @@
 <div id="header" align="center">
-  <h1>Welcome to my GitHub! :hola:</h1>
+  <h1>Welcome to my GitHub! 👋</h1>
 </div>
 <hr/>
-<h3>:ojos: About Me :</h3> 
+<h3>👀 About Me :</h3> 
 <li>
-:oficinista_hombre: I'm currently working in the research group BISITE (University of Salamanca) as a Data Scientist and AI Researcher.
+👨‍💼 I'm currently working in the research group BISITE (University of Salamanca) as a Data Scientist and AI Researcher.
 </li>
 <li>
-:open_book: I obtained a bachelor's degree in mathematics from the University of Salamanca, followed by a master's degree in Mathematical Modeling. At the moment, I'm fully immersed in my PhD studies in Computer Engineering at the same institution.</li>
+📖 I obtained a bachelor's degree in mathematics from the University of Salamanca, followed by a master's degree in Mathematical Modeling. At the moment, I'm fully immersed in my PhD studies in Computer Engineering at the same institution.</li>
 <hr/>
-<h3>:sobre_con_flecha: Contact with me:</h3> 
+<h3>📩 Contact with me:</h3> 
 <div>
 <a href=https://www.linkedin.com/in/diego-martín-martín-1a6199253>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <hr/>
 
-<h3>:martillo_y_llave_inglesa: Languages and Tools :</h3>
+<h3>🛠️ Languages and Tools :</h3>
 <div>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
 
