@@ -4,7 +4,7 @@
 <hr/>
 <h3>👀 About Me :</h3> 
 <li>
-👨‍💼 I'm currently working in the research group BISITE (University of Salamanca) as a Data Scientist and AI Researcher.
+👨‍💼 I'm currently working in the AIR Institute research group (University of Salamanca) as a Data Scientist and AI Researcher.
 </li>
 <li>
 📖 I obtained a bachelor's degree in mathematics from the University of Salamanca, followed by a master's degree in Mathematical Modeling. At the moment, I'm fully immersed in my PhD studies in Computer Engineering at the same institution.</li>
@@ -27,4 +27,10 @@
 <br/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="VSCode" alt="VSCode"/>
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" title="LaTeX" alt="LaTeX"/>
+</div>
+<h3>📥 Repositories:</h3>
+<div>
+    <li>
+        <b>Basic-Notebooks:</b> contains basic notebooks for beginners in Python, Data Science, Machine Learning, Deep Learning.
+    </li>
 </div>
